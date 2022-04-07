@@ -1,0 +1,108 @@
+/* #main{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#nav{
+    background-color: #5624d0;
+    padding: 12px; 
+} */
+
+/* #footer{
+    padding: 30px;
+    margin-top: 150px;
+    /* position: fixed;
+    bottom: 0;
+    width: 100%; 
+    background-color: #1c1d1f;
+    color: aliceblue;
+} */
+
+#footer p{
+    text-align: center;
+}
+
+#footer img{
+    width: 15px;
+    margin: 5px;
+}
+
+/* #footersocialicons, #footerlinks{
+    width: 50%;
+    float: left;
+} */
+
+.footerimg{
+    width: 15px;
+    margin: 5px;
+}
+
+.clear{
+    clear: both;
+}
+
+/* #nav a, #footer a{
+    color: #fff;
+} */
+/* 
+.white-link {
+    color: #fff;
+} */
+/* 
+h1,h2,h3,h4,h5,h6{
+    color: darkcyan;
+} */
+/* 
+#Heading{
+    color: darkgreen;
+}
+
+.headingText{
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+label{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+p{
+    color: darkgrey;
+}
+
+table {
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid rgb(190, 190, 190);
+    padding: 8px;
+}
+
+#table1 th{
+    background-color: rgb(255, 61, 61); 
+    color: #fff;
+}
+
+#table2 th{
+    background-color: darkred; 
+    color: #fff;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.bg-text{
+    background-image: url('../images/facebook.png');
+    z-index: 0.5;
+} */
